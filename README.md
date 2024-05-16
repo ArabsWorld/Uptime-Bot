@@ -1,2 +1,0 @@
-# Uptime-Bot
-Uptime Bot
